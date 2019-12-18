@@ -1,4 +1,4 @@
-#CoursAmi
+#CoursAmiMaxime
 *by Maxime*
 C'est le dépôt test.
 
